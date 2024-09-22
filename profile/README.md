@@ -1,8 +1,8 @@
 ## About HN Insights
-[HN Insights](https://insights.hn/) is an online service for real-time analytics of Hacker News, tracking stories, comments, users, and more. We provide insights into the latest trends, popular stories, and active users on Hacker News.
+[HN Insights](https://insights.hn/) is an online service for real-time analytics of Hacker News, tracking stories, comments, users, and more. We provide insights into the latest trends, popular stories, and active users on [Hacker News](https://news.ycombinator.com/).
 
 ## Data Source
-All the data on [HN Insights](https://insights.hn/) is sourced from Hacker News API in real time. We constantly monitor below endpoints and ingest data into a data warehouse built on ClickHouse.
+All the data on [HN Insights](https://insights.hn/) is sourced from [Hacker News API](https://github.com/HackerNews/API) in real time. We constantly monitor below endpoints and ingest data into a data warehouse built on ClickHouse.
 
 - Items
 - Users
