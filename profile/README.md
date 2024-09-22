@@ -34,5 +34,5 @@ We appreciate all the resources used in building [HN Insights](https://insights.
 We will be adding new features and data frequently. If you have any ideas or suggestions, please get in touch.
 
 - Email: contact@insights.hn
-- X / Twitter: @insights_hn
+- X / Twitter: [@insights_hn](https://x.com/insights_hn)
 - GitHub: [hn-insights](https://github.com/hn-insights)
